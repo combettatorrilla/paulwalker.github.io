@@ -1,0 +1,123 @@
+@font-face{
+font-family:LT Colored Pencil;
+src:url("estilos/Fast Forward.ttf");
+}
+@font-face{
+font-family:Typewcond_Condensed_Demi;
+src:url("estilos/typewcond_demi.otf");
+}
+body{
+	background-color:#4696E5;
+	background-image: url("img/fondo.gif");
+}
+h1{
+	background-color:#000000  ;
+	color:#ffffff ;
+	text-align:center;
+	font-size:35spx;
+	margin-left:20%;
+	margin-right:20%;
+	margin-top:3%;
+	margin-bottom:2%;
+    font-family:LT Colored Pencil;
+	
+	border-bottom-style:groove;
+	border-top-style:groove;
+	border-left-style:groove;
+	border-right-style:groove;
+	border-right-color:#ffffff;
+	border-left-color:#ffffff;
+	border-top-color:#ffffff;
+	border-bottom-color:#ffffff;
+	border-width:5px;
+	border-radius:25px;
+	
+	
+}
+h2{
+	
+	color:#ffffff ;
+	text-align:justify;
+	font-size:35px;
+	
+	
+	
+    font-family:Typewcond_Condensed_Demi;
+	
+	line-height:45px;
+	margin-bottom:30px;
+	
+	text-shadow:2px 3px 2px #000000;
+}
+
+
+p{
+	color:#ffffff;
+	text-align:justify;
+	font-size:30px;
+	margin-right:7%;
+	margin-left:7%;
+	line-height:45px;
+	margin-bottom:30px;
+	text-shadow:2px 3px 2px #909090;
+	font-family:Typewcond_Condensed_Demi;
+}
+.diferente{
+	
+	text-shadow:2px 3px 2px #000000;
+	
+}
+img{
+display:block;
+	margin:auto;
+	border-bottom-style:solid;
+	border-top-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-right-color:#7A8997;
+	border-left-color:#7A8997;
+	border-top-color:#7A8997;
+	border-bottom-color:#7A8997;
+	border-width:5px;
+	margin-top:30px;
+}
+.ft{display:inline;}
+.img:link {background-color:transparent;
+border-style:none;}
+li{
+    color:#ffffff;
+	text-align:justify;
+	text-shadow:2px 3px 2px #000000;
+	font-size:30px;
+    margin-right:7%;
+	margin-left:7%;
+	
+	
+	font-family:Typewcond_Condensed_Demi;
+}
+
+table{
+	margin:auto;
+}
+td{
+    font-size:22px; 
+	background-color:#ffffff;
+}
+a:link{
+    color:#081A81;
+  
+    text-decoration:none;
+	font-size:20px;
+    font-family:Typewcond_Condensed_Demi;	
+}
+a:hover{
+    color:#D35400;
+    background-color:#FFFFFF;
+   
+}
+a:visited{
+	color:#7FEE4D;
+    text-decoration:none;
+	font-size:20px;
+    font-family:LT Colored Pencil;
+}
